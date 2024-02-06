@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="question_indicator_textview" type="id" />
+    <item name="score_title" type="id" />
+    <item name="score_progress_indicator" type="id" />
+    <item name="score_progress_text" type="id" />
+    <item name="score_subtitle" type="id" />
+    <item name="finish_btn" type="id" />
+</resources>

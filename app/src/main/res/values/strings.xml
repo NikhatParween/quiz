@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlgoArena</string>
+    <string name="password_android_textsize">Password android:textSize=</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account?Sign up now</string>
+    <string name="data_structure">Data Structure</string>
+    <string name="next">Next</string>
+    <string name="what_is_android_os">What is android OS?</string>
+    <string name="ans_a">Ans A</string>
+    <string name="ans_b">Ans B</string>
+    <string name="ans_c">Ans C</string>
+    <string name="ans_d">Ans D</string>
+    <string name="finish">Finish</string>
+    <string name="Next">Next</string>
+    <string name="AlgoArena" />
+</resources>
